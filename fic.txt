@@ -1,0 +1,2004 @@
+reset
+set xrange [0:1]
+set yrange [-20:20]
+plot 'NLinHopfFig4.dat' ind 0 using 1:2 with lines title 't=0'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 1 using 1:2 with lines title 't=0.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 2 using 1:2 with lines title 't=0.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 3 using 1:2 with lines title 't=0.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 4 using 1:2 with lines title 't=0.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 5 using 1:2 with lines title 't=0.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 6 using 1:2 with lines title 't=0.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 7 using 1:2 with lines title 't=0.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 8 using 1:2 with lines title 't=0.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 9 using 1:2 with lines title 't=0.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 10 using 1:2 with lines title 't=1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 11 using 1:2 with lines title 't=1.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 12 using 1:2 with lines title 't=1.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 13 using 1:2 with lines title 't=1.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 14 using 1:2 with lines title 't=1.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 15 using 1:2 with lines title 't=1.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 16 using 1:2 with lines title 't=1.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 17 using 1:2 with lines title 't=1.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 18 using 1:2 with lines title 't=1.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 19 using 1:2 with lines title 't=1.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 20 using 1:2 with lines title 't=2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 21 using 1:2 with lines title 't=2.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 22 using 1:2 with lines title 't=2.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 23 using 1:2 with lines title 't=2.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 24 using 1:2 with lines title 't=2.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 25 using 1:2 with lines title 't=2.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 26 using 1:2 with lines title 't=2.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 27 using 1:2 with lines title 't=2.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 28 using 1:2 with lines title 't=2.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 29 using 1:2 with lines title 't=2.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 30 using 1:2 with lines title 't=3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 31 using 1:2 with lines title 't=3.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 32 using 1:2 with lines title 't=3.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 33 using 1:2 with lines title 't=3.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 34 using 1:2 with lines title 't=3.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 35 using 1:2 with lines title 't=3.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 36 using 1:2 with lines title 't=3.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 37 using 1:2 with lines title 't=3.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 38 using 1:2 with lines title 't=3.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 39 using 1:2 with lines title 't=3.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 40 using 1:2 with lines title 't=4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 41 using 1:2 with lines title 't=4.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 42 using 1:2 with lines title 't=4.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 43 using 1:2 with lines title 't=4.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 44 using 1:2 with lines title 't=4.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 45 using 1:2 with lines title 't=4.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 46 using 1:2 with lines title 't=4.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 47 using 1:2 with lines title 't=4.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 48 using 1:2 with lines title 't=4.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 49 using 1:2 with lines title 't=4.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 50 using 1:2 with lines title 't=5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 51 using 1:2 with lines title 't=5.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 52 using 1:2 with lines title 't=5.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 53 using 1:2 with lines title 't=5.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 54 using 1:2 with lines title 't=5.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 55 using 1:2 with lines title 't=5.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 56 using 1:2 with lines title 't=5.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 57 using 1:2 with lines title 't=5.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 58 using 1:2 with lines title 't=5.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 59 using 1:2 with lines title 't=5.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 60 using 1:2 with lines title 't=6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 61 using 1:2 with lines title 't=6.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 62 using 1:2 with lines title 't=6.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 63 using 1:2 with lines title 't=6.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 64 using 1:2 with lines title 't=6.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 65 using 1:2 with lines title 't=6.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 66 using 1:2 with lines title 't=6.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 67 using 1:2 with lines title 't=6.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 68 using 1:2 with lines title 't=6.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 69 using 1:2 with lines title 't=6.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 70 using 1:2 with lines title 't=7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 71 using 1:2 with lines title 't=7.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 72 using 1:2 with lines title 't=7.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 73 using 1:2 with lines title 't=7.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 74 using 1:2 with lines title 't=7.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 75 using 1:2 with lines title 't=7.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 76 using 1:2 with lines title 't=7.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 77 using 1:2 with lines title 't=7.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 78 using 1:2 with lines title 't=7.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 79 using 1:2 with lines title 't=7.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 80 using 1:2 with lines title 't=8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 81 using 1:2 with lines title 't=8.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 82 using 1:2 with lines title 't=8.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 83 using 1:2 with lines title 't=8.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 84 using 1:2 with lines title 't=8.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 85 using 1:2 with lines title 't=8.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 86 using 1:2 with lines title 't=8.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 87 using 1:2 with lines title 't=8.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 88 using 1:2 with lines title 't=8.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 89 using 1:2 with lines title 't=8.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 90 using 1:2 with lines title 't=9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 91 using 1:2 with lines title 't=9.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 92 using 1:2 with lines title 't=9.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 93 using 1:2 with lines title 't=9.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 94 using 1:2 with lines title 't=9.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 95 using 1:2 with lines title 't=9.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 96 using 1:2 with lines title 't=9.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 97 using 1:2 with lines title 't=9.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 98 using 1:2 with lines title 't=9.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 99 using 1:2 with lines title 't=9.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 100 using 1:2 with lines title 't=10'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 101 using 1:2 with lines title 't=10.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 102 using 1:2 with lines title 't=10.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 103 using 1:2 with lines title 't=10.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 104 using 1:2 with lines title 't=10.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 105 using 1:2 with lines title 't=10.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 106 using 1:2 with lines title 't=10.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 107 using 1:2 with lines title 't=10.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 108 using 1:2 with lines title 't=10.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 109 using 1:2 with lines title 't=10.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 110 using 1:2 with lines title 't=11'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 111 using 1:2 with lines title 't=11.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 112 using 1:2 with lines title 't=11.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 113 using 1:2 with lines title 't=11.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 114 using 1:2 with lines title 't=11.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 115 using 1:2 with lines title 't=11.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 116 using 1:2 with lines title 't=11.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 117 using 1:2 with lines title 't=11.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 118 using 1:2 with lines title 't=11.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 119 using 1:2 with lines title 't=11.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 120 using 1:2 with lines title 't=12'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 121 using 1:2 with lines title 't=12.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 122 using 1:2 with lines title 't=12.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 123 using 1:2 with lines title 't=12.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 124 using 1:2 with lines title 't=12.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 125 using 1:2 with lines title 't=12.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 126 using 1:2 with lines title 't=12.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 127 using 1:2 with lines title 't=12.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 128 using 1:2 with lines title 't=12.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 129 using 1:2 with lines title 't=12.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 130 using 1:2 with lines title 't=13'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 131 using 1:2 with lines title 't=13.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 132 using 1:2 with lines title 't=13.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 133 using 1:2 with lines title 't=13.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 134 using 1:2 with lines title 't=13.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 135 using 1:2 with lines title 't=13.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 136 using 1:2 with lines title 't=13.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 137 using 1:2 with lines title 't=13.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 138 using 1:2 with lines title 't=13.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 139 using 1:2 with lines title 't=13.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 140 using 1:2 with lines title 't=14'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 141 using 1:2 with lines title 't=14.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 142 using 1:2 with lines title 't=14.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 143 using 1:2 with lines title 't=14.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 144 using 1:2 with lines title 't=14.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 145 using 1:2 with lines title 't=14.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 146 using 1:2 with lines title 't=14.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 147 using 1:2 with lines title 't=14.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 148 using 1:2 with lines title 't=14.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 149 using 1:2 with lines title 't=14.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 150 using 1:2 with lines title 't=15'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 151 using 1:2 with lines title 't=15.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 152 using 1:2 with lines title 't=15.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 153 using 1:2 with lines title 't=15.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 154 using 1:2 with lines title 't=15.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 155 using 1:2 with lines title 't=15.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 156 using 1:2 with lines title 't=15.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 157 using 1:2 with lines title 't=15.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 158 using 1:2 with lines title 't=15.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 159 using 1:2 with lines title 't=15.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 160 using 1:2 with lines title 't=16'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 161 using 1:2 with lines title 't=16.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 162 using 1:2 with lines title 't=16.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 163 using 1:2 with lines title 't=16.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 164 using 1:2 with lines title 't=16.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 165 using 1:2 with lines title 't=16.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 166 using 1:2 with lines title 't=16.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 167 using 1:2 with lines title 't=16.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 168 using 1:2 with lines title 't=16.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 169 using 1:2 with lines title 't=16.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 170 using 1:2 with lines title 't=17'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 171 using 1:2 with lines title 't=17.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 172 using 1:2 with lines title 't=17.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 173 using 1:2 with lines title 't=17.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 174 using 1:2 with lines title 't=17.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 175 using 1:2 with lines title 't=17.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 176 using 1:2 with lines title 't=17.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 177 using 1:2 with lines title 't=17.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 178 using 1:2 with lines title 't=17.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 179 using 1:2 with lines title 't=17.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 180 using 1:2 with lines title 't=18'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 181 using 1:2 with lines title 't=18.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 182 using 1:2 with lines title 't=18.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 183 using 1:2 with lines title 't=18.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 184 using 1:2 with lines title 't=18.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 185 using 1:2 with lines title 't=18.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 186 using 1:2 with lines title 't=18.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 187 using 1:2 with lines title 't=18.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 188 using 1:2 with lines title 't=18.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 189 using 1:2 with lines title 't=18.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 190 using 1:2 with lines title 't=19'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 191 using 1:2 with lines title 't=19.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 192 using 1:2 with lines title 't=19.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 193 using 1:2 with lines title 't=19.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 194 using 1:2 with lines title 't=19.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 195 using 1:2 with lines title 't=19.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 196 using 1:2 with lines title 't=19.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 197 using 1:2 with lines title 't=19.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 198 using 1:2 with lines title 't=19.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 199 using 1:2 with lines title 't=19.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 200 using 1:2 with lines title 't=20'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 201 using 1:2 with lines title 't=20.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 202 using 1:2 with lines title 't=20.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 203 using 1:2 with lines title 't=20.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 204 using 1:2 with lines title 't=20.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 205 using 1:2 with lines title 't=20.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 206 using 1:2 with lines title 't=20.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 207 using 1:2 with lines title 't=20.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 208 using 1:2 with lines title 't=20.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 209 using 1:2 with lines title 't=20.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 210 using 1:2 with lines title 't=21'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 211 using 1:2 with lines title 't=21.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 212 using 1:2 with lines title 't=21.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 213 using 1:2 with lines title 't=21.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 214 using 1:2 with lines title 't=21.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 215 using 1:2 with lines title 't=21.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 216 using 1:2 with lines title 't=21.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 217 using 1:2 with lines title 't=21.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 218 using 1:2 with lines title 't=21.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 219 using 1:2 with lines title 't=21.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 220 using 1:2 with lines title 't=22'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 221 using 1:2 with lines title 't=22.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 222 using 1:2 with lines title 't=22.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 223 using 1:2 with lines title 't=22.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 224 using 1:2 with lines title 't=22.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 225 using 1:2 with lines title 't=22.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 226 using 1:2 with lines title 't=22.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 227 using 1:2 with lines title 't=22.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 228 using 1:2 with lines title 't=22.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 229 using 1:2 with lines title 't=22.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 230 using 1:2 with lines title 't=23'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 231 using 1:2 with lines title 't=23.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 232 using 1:2 with lines title 't=23.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 233 using 1:2 with lines title 't=23.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 234 using 1:2 with lines title 't=23.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 235 using 1:2 with lines title 't=23.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 236 using 1:2 with lines title 't=23.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 237 using 1:2 with lines title 't=23.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 238 using 1:2 with lines title 't=23.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 239 using 1:2 with lines title 't=23.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 240 using 1:2 with lines title 't=24'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 241 using 1:2 with lines title 't=24.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 242 using 1:2 with lines title 't=24.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 243 using 1:2 with lines title 't=24.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 244 using 1:2 with lines title 't=24.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 245 using 1:2 with lines title 't=24.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 246 using 1:2 with lines title 't=24.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 247 using 1:2 with lines title 't=24.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 248 using 1:2 with lines title 't=24.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 249 using 1:2 with lines title 't=24.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 250 using 1:2 with lines title 't=25'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 251 using 1:2 with lines title 't=25.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 252 using 1:2 with lines title 't=25.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 253 using 1:2 with lines title 't=25.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 254 using 1:2 with lines title 't=25.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 255 using 1:2 with lines title 't=25.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 256 using 1:2 with lines title 't=25.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 257 using 1:2 with lines title 't=25.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 258 using 1:2 with lines title 't=25.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 259 using 1:2 with lines title 't=25.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 260 using 1:2 with lines title 't=26'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 261 using 1:2 with lines title 't=26.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 262 using 1:2 with lines title 't=26.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 263 using 1:2 with lines title 't=26.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 264 using 1:2 with lines title 't=26.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 265 using 1:2 with lines title 't=26.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 266 using 1:2 with lines title 't=26.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 267 using 1:2 with lines title 't=26.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 268 using 1:2 with lines title 't=26.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 269 using 1:2 with lines title 't=26.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 270 using 1:2 with lines title 't=27'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 271 using 1:2 with lines title 't=27.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 272 using 1:2 with lines title 't=27.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 273 using 1:2 with lines title 't=27.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 274 using 1:2 with lines title 't=27.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 275 using 1:2 with lines title 't=27.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 276 using 1:2 with lines title 't=27.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 277 using 1:2 with lines title 't=27.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 278 using 1:2 with lines title 't=27.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 279 using 1:2 with lines title 't=27.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 280 using 1:2 with lines title 't=28'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 281 using 1:2 with lines title 't=28.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 282 using 1:2 with lines title 't=28.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 283 using 1:2 with lines title 't=28.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 284 using 1:2 with lines title 't=28.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 285 using 1:2 with lines title 't=28.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 286 using 1:2 with lines title 't=28.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 287 using 1:2 with lines title 't=28.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 288 using 1:2 with lines title 't=28.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 289 using 1:2 with lines title 't=28.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 290 using 1:2 with lines title 't=29'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 291 using 1:2 with lines title 't=29.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 292 using 1:2 with lines title 't=29.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 293 using 1:2 with lines title 't=29.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 294 using 1:2 with lines title 't=29.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 295 using 1:2 with lines title 't=29.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 296 using 1:2 with lines title 't=29.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 297 using 1:2 with lines title 't=29.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 298 using 1:2 with lines title 't=29.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 299 using 1:2 with lines title 't=29.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 300 using 1:2 with lines title 't=30'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 301 using 1:2 with lines title 't=30.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 302 using 1:2 with lines title 't=30.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 303 using 1:2 with lines title 't=30.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 304 using 1:2 with lines title 't=30.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 305 using 1:2 with lines title 't=30.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 306 using 1:2 with lines title 't=30.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 307 using 1:2 with lines title 't=30.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 308 using 1:2 with lines title 't=30.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 309 using 1:2 with lines title 't=30.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 310 using 1:2 with lines title 't=31'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 311 using 1:2 with lines title 't=31.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 312 using 1:2 with lines title 't=31.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 313 using 1:2 with lines title 't=31.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 314 using 1:2 with lines title 't=31.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 315 using 1:2 with lines title 't=31.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 316 using 1:2 with lines title 't=31.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 317 using 1:2 with lines title 't=31.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 318 using 1:2 with lines title 't=31.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 319 using 1:2 with lines title 't=31.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 320 using 1:2 with lines title 't=32'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 321 using 1:2 with lines title 't=32.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 322 using 1:2 with lines title 't=32.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 323 using 1:2 with lines title 't=32.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 324 using 1:2 with lines title 't=32.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 325 using 1:2 with lines title 't=32.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 326 using 1:2 with lines title 't=32.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 327 using 1:2 with lines title 't=32.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 328 using 1:2 with lines title 't=32.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 329 using 1:2 with lines title 't=32.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 330 using 1:2 with lines title 't=33'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 331 using 1:2 with lines title 't=33.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 332 using 1:2 with lines title 't=33.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 333 using 1:2 with lines title 't=33.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 334 using 1:2 with lines title 't=33.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 335 using 1:2 with lines title 't=33.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 336 using 1:2 with lines title 't=33.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 337 using 1:2 with lines title 't=33.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 338 using 1:2 with lines title 't=33.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 339 using 1:2 with lines title 't=33.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 340 using 1:2 with lines title 't=34'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 341 using 1:2 with lines title 't=34.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 342 using 1:2 with lines title 't=34.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 343 using 1:2 with lines title 't=34.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 344 using 1:2 with lines title 't=34.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 345 using 1:2 with lines title 't=34.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 346 using 1:2 with lines title 't=34.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 347 using 1:2 with lines title 't=34.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 348 using 1:2 with lines title 't=34.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 349 using 1:2 with lines title 't=34.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 350 using 1:2 with lines title 't=35'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 351 using 1:2 with lines title 't=35.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 352 using 1:2 with lines title 't=35.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 353 using 1:2 with lines title 't=35.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 354 using 1:2 with lines title 't=35.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 355 using 1:2 with lines title 't=35.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 356 using 1:2 with lines title 't=35.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 357 using 1:2 with lines title 't=35.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 358 using 1:2 with lines title 't=35.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 359 using 1:2 with lines title 't=35.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 360 using 1:2 with lines title 't=36'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 361 using 1:2 with lines title 't=36.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 362 using 1:2 with lines title 't=36.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 363 using 1:2 with lines title 't=36.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 364 using 1:2 with lines title 't=36.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 365 using 1:2 with lines title 't=36.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 366 using 1:2 with lines title 't=36.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 367 using 1:2 with lines title 't=36.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 368 using 1:2 with lines title 't=36.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 369 using 1:2 with lines title 't=36.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 370 using 1:2 with lines title 't=37'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 371 using 1:2 with lines title 't=37.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 372 using 1:2 with lines title 't=37.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 373 using 1:2 with lines title 't=37.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 374 using 1:2 with lines title 't=37.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 375 using 1:2 with lines title 't=37.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 376 using 1:2 with lines title 't=37.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 377 using 1:2 with lines title 't=37.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 378 using 1:2 with lines title 't=37.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 379 using 1:2 with lines title 't=37.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 380 using 1:2 with lines title 't=38'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 381 using 1:2 with lines title 't=38.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 382 using 1:2 with lines title 't=38.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 383 using 1:2 with lines title 't=38.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 384 using 1:2 with lines title 't=38.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 385 using 1:2 with lines title 't=38.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 386 using 1:2 with lines title 't=38.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 387 using 1:2 with lines title 't=38.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 388 using 1:2 with lines title 't=38.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 389 using 1:2 with lines title 't=38.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 390 using 1:2 with lines title 't=39'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 391 using 1:2 with lines title 't=39.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 392 using 1:2 with lines title 't=39.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 393 using 1:2 with lines title 't=39.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 394 using 1:2 with lines title 't=39.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 395 using 1:2 with lines title 't=39.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 396 using 1:2 with lines title 't=39.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 397 using 1:2 with lines title 't=39.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 398 using 1:2 with lines title 't=39.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 399 using 1:2 with lines title 't=39.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 400 using 1:2 with lines title 't=40'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 401 using 1:2 with lines title 't=40.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 402 using 1:2 with lines title 't=40.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 403 using 1:2 with lines title 't=40.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 404 using 1:2 with lines title 't=40.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 405 using 1:2 with lines title 't=40.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 406 using 1:2 with lines title 't=40.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 407 using 1:2 with lines title 't=40.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 408 using 1:2 with lines title 't=40.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 409 using 1:2 with lines title 't=40.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 410 using 1:2 with lines title 't=41'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 411 using 1:2 with lines title 't=41.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 412 using 1:2 with lines title 't=41.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 413 using 1:2 with lines title 't=41.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 414 using 1:2 with lines title 't=41.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 415 using 1:2 with lines title 't=41.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 416 using 1:2 with lines title 't=41.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 417 using 1:2 with lines title 't=41.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 418 using 1:2 with lines title 't=41.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 419 using 1:2 with lines title 't=41.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 420 using 1:2 with lines title 't=42'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 421 using 1:2 with lines title 't=42.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 422 using 1:2 with lines title 't=42.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 423 using 1:2 with lines title 't=42.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 424 using 1:2 with lines title 't=42.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 425 using 1:2 with lines title 't=42.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 426 using 1:2 with lines title 't=42.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 427 using 1:2 with lines title 't=42.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 428 using 1:2 with lines title 't=42.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 429 using 1:2 with lines title 't=42.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 430 using 1:2 with lines title 't=43'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 431 using 1:2 with lines title 't=43.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 432 using 1:2 with lines title 't=43.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 433 using 1:2 with lines title 't=43.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 434 using 1:2 with lines title 't=43.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 435 using 1:2 with lines title 't=43.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 436 using 1:2 with lines title 't=43.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 437 using 1:2 with lines title 't=43.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 438 using 1:2 with lines title 't=43.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 439 using 1:2 with lines title 't=43.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 440 using 1:2 with lines title 't=44'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 441 using 1:2 with lines title 't=44.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 442 using 1:2 with lines title 't=44.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 443 using 1:2 with lines title 't=44.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 444 using 1:2 with lines title 't=44.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 445 using 1:2 with lines title 't=44.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 446 using 1:2 with lines title 't=44.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 447 using 1:2 with lines title 't=44.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 448 using 1:2 with lines title 't=44.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 449 using 1:2 with lines title 't=44.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 450 using 1:2 with lines title 't=45'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 451 using 1:2 with lines title 't=45.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 452 using 1:2 with lines title 't=45.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 453 using 1:2 with lines title 't=45.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 454 using 1:2 with lines title 't=45.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 455 using 1:2 with lines title 't=45.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 456 using 1:2 with lines title 't=45.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 457 using 1:2 with lines title 't=45.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 458 using 1:2 with lines title 't=45.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 459 using 1:2 with lines title 't=45.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 460 using 1:2 with lines title 't=46'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 461 using 1:2 with lines title 't=46.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 462 using 1:2 with lines title 't=46.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 463 using 1:2 with lines title 't=46.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 464 using 1:2 with lines title 't=46.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 465 using 1:2 with lines title 't=46.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 466 using 1:2 with lines title 't=46.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 467 using 1:2 with lines title 't=46.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 468 using 1:2 with lines title 't=46.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 469 using 1:2 with lines title 't=46.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 470 using 1:2 with lines title 't=47'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 471 using 1:2 with lines title 't=47.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 472 using 1:2 with lines title 't=47.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 473 using 1:2 with lines title 't=47.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 474 using 1:2 with lines title 't=47.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 475 using 1:2 with lines title 't=47.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 476 using 1:2 with lines title 't=47.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 477 using 1:2 with lines title 't=47.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 478 using 1:2 with lines title 't=47.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 479 using 1:2 with lines title 't=47.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 480 using 1:2 with lines title 't=48'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 481 using 1:2 with lines title 't=48.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 482 using 1:2 with lines title 't=48.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 483 using 1:2 with lines title 't=48.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 484 using 1:2 with lines title 't=48.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 485 using 1:2 with lines title 't=48.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 486 using 1:2 with lines title 't=48.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 487 using 1:2 with lines title 't=48.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 488 using 1:2 with lines title 't=48.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 489 using 1:2 with lines title 't=48.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 490 using 1:2 with lines title 't=49'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 491 using 1:2 with lines title 't=49.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 492 using 1:2 with lines title 't=49.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 493 using 1:2 with lines title 't=49.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 494 using 1:2 with lines title 't=49.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 495 using 1:2 with lines title 't=49.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 496 using 1:2 with lines title 't=49.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 497 using 1:2 with lines title 't=49.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 498 using 1:2 with lines title 't=49.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 499 using 1:2 with lines title 't=49.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 500 using 1:2 with lines title 't=50'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 501 using 1:2 with lines title 't=50.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 502 using 1:2 with lines title 't=50.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 503 using 1:2 with lines title 't=50.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 504 using 1:2 with lines title 't=50.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 505 using 1:2 with lines title 't=50.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 506 using 1:2 with lines title 't=50.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 507 using 1:2 with lines title 't=50.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 508 using 1:2 with lines title 't=50.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 509 using 1:2 with lines title 't=50.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 510 using 1:2 with lines title 't=51'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 511 using 1:2 with lines title 't=51.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 512 using 1:2 with lines title 't=51.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 513 using 1:2 with lines title 't=51.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 514 using 1:2 with lines title 't=51.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 515 using 1:2 with lines title 't=51.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 516 using 1:2 with lines title 't=51.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 517 using 1:2 with lines title 't=51.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 518 using 1:2 with lines title 't=51.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 519 using 1:2 with lines title 't=51.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 520 using 1:2 with lines title 't=52'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 521 using 1:2 with lines title 't=52.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 522 using 1:2 with lines title 't=52.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 523 using 1:2 with lines title 't=52.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 524 using 1:2 with lines title 't=52.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 525 using 1:2 with lines title 't=52.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 526 using 1:2 with lines title 't=52.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 527 using 1:2 with lines title 't=52.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 528 using 1:2 with lines title 't=52.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 529 using 1:2 with lines title 't=52.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 530 using 1:2 with lines title 't=53'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 531 using 1:2 with lines title 't=53.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 532 using 1:2 with lines title 't=53.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 533 using 1:2 with lines title 't=53.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 534 using 1:2 with lines title 't=53.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 535 using 1:2 with lines title 't=53.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 536 using 1:2 with lines title 't=53.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 537 using 1:2 with lines title 't=53.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 538 using 1:2 with lines title 't=53.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 539 using 1:2 with lines title 't=53.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 540 using 1:2 with lines title 't=54'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 541 using 1:2 with lines title 't=54.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 542 using 1:2 with lines title 't=54.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 543 using 1:2 with lines title 't=54.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 544 using 1:2 with lines title 't=54.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 545 using 1:2 with lines title 't=54.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 546 using 1:2 with lines title 't=54.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 547 using 1:2 with lines title 't=54.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 548 using 1:2 with lines title 't=54.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 549 using 1:2 with lines title 't=54.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 550 using 1:2 with lines title 't=55'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 551 using 1:2 with lines title 't=55.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 552 using 1:2 with lines title 't=55.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 553 using 1:2 with lines title 't=55.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 554 using 1:2 with lines title 't=55.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 555 using 1:2 with lines title 't=55.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 556 using 1:2 with lines title 't=55.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 557 using 1:2 with lines title 't=55.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 558 using 1:2 with lines title 't=55.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 559 using 1:2 with lines title 't=55.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 560 using 1:2 with lines title 't=56'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 561 using 1:2 with lines title 't=56.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 562 using 1:2 with lines title 't=56.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 563 using 1:2 with lines title 't=56.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 564 using 1:2 with lines title 't=56.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 565 using 1:2 with lines title 't=56.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 566 using 1:2 with lines title 't=56.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 567 using 1:2 with lines title 't=56.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 568 using 1:2 with lines title 't=56.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 569 using 1:2 with lines title 't=56.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 570 using 1:2 with lines title 't=57'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 571 using 1:2 with lines title 't=57.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 572 using 1:2 with lines title 't=57.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 573 using 1:2 with lines title 't=57.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 574 using 1:2 with lines title 't=57.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 575 using 1:2 with lines title 't=57.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 576 using 1:2 with lines title 't=57.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 577 using 1:2 with lines title 't=57.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 578 using 1:2 with lines title 't=57.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 579 using 1:2 with lines title 't=57.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 580 using 1:2 with lines title 't=58'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 581 using 1:2 with lines title 't=58.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 582 using 1:2 with lines title 't=58.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 583 using 1:2 with lines title 't=58.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 584 using 1:2 with lines title 't=58.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 585 using 1:2 with lines title 't=58.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 586 using 1:2 with lines title 't=58.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 587 using 1:2 with lines title 't=58.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 588 using 1:2 with lines title 't=58.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 589 using 1:2 with lines title 't=58.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 590 using 1:2 with lines title 't=59'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 591 using 1:2 with lines title 't=59.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 592 using 1:2 with lines title 't=59.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 593 using 1:2 with lines title 't=59.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 594 using 1:2 with lines title 't=59.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 595 using 1:2 with lines title 't=59.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 596 using 1:2 with lines title 't=59.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 597 using 1:2 with lines title 't=59.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 598 using 1:2 with lines title 't=59.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 599 using 1:2 with lines title 't=59.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 600 using 1:2 with lines title 't=60'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 601 using 1:2 with lines title 't=60.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 602 using 1:2 with lines title 't=60.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 603 using 1:2 with lines title 't=60.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 604 using 1:2 with lines title 't=60.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 605 using 1:2 with lines title 't=60.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 606 using 1:2 with lines title 't=60.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 607 using 1:2 with lines title 't=60.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 608 using 1:2 with lines title 't=60.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 609 using 1:2 with lines title 't=60.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 610 using 1:2 with lines title 't=61'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 611 using 1:2 with lines title 't=61.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 612 using 1:2 with lines title 't=61.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 613 using 1:2 with lines title 't=61.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 614 using 1:2 with lines title 't=61.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 615 using 1:2 with lines title 't=61.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 616 using 1:2 with lines title 't=61.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 617 using 1:2 with lines title 't=61.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 618 using 1:2 with lines title 't=61.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 619 using 1:2 with lines title 't=61.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 620 using 1:2 with lines title 't=62'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 621 using 1:2 with lines title 't=62.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 622 using 1:2 with lines title 't=62.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 623 using 1:2 with lines title 't=62.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 624 using 1:2 with lines title 't=62.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 625 using 1:2 with lines title 't=62.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 626 using 1:2 with lines title 't=62.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 627 using 1:2 with lines title 't=62.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 628 using 1:2 with lines title 't=62.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 629 using 1:2 with lines title 't=62.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 630 using 1:2 with lines title 't=63'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 631 using 1:2 with lines title 't=63.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 632 using 1:2 with lines title 't=63.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 633 using 1:2 with lines title 't=63.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 634 using 1:2 with lines title 't=63.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 635 using 1:2 with lines title 't=63.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 636 using 1:2 with lines title 't=63.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 637 using 1:2 with lines title 't=63.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 638 using 1:2 with lines title 't=63.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 639 using 1:2 with lines title 't=63.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 640 using 1:2 with lines title 't=64'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 641 using 1:2 with lines title 't=64.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 642 using 1:2 with lines title 't=64.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 643 using 1:2 with lines title 't=64.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 644 using 1:2 with lines title 't=64.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 645 using 1:2 with lines title 't=64.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 646 using 1:2 with lines title 't=64.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 647 using 1:2 with lines title 't=64.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 648 using 1:2 with lines title 't=64.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 649 using 1:2 with lines title 't=64.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 650 using 1:2 with lines title 't=65'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 651 using 1:2 with lines title 't=65.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 652 using 1:2 with lines title 't=65.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 653 using 1:2 with lines title 't=65.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 654 using 1:2 with lines title 't=65.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 655 using 1:2 with lines title 't=65.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 656 using 1:2 with lines title 't=65.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 657 using 1:2 with lines title 't=65.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 658 using 1:2 with lines title 't=65.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 659 using 1:2 with lines title 't=65.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 660 using 1:2 with lines title 't=66'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 661 using 1:2 with lines title 't=66.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 662 using 1:2 with lines title 't=66.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 663 using 1:2 with lines title 't=66.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 664 using 1:2 with lines title 't=66.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 665 using 1:2 with lines title 't=66.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 666 using 1:2 with lines title 't=66.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 667 using 1:2 with lines title 't=66.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 668 using 1:2 with lines title 't=66.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 669 using 1:2 with lines title 't=66.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 670 using 1:2 with lines title 't=67'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 671 using 1:2 with lines title 't=67.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 672 using 1:2 with lines title 't=67.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 673 using 1:2 with lines title 't=67.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 674 using 1:2 with lines title 't=67.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 675 using 1:2 with lines title 't=67.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 676 using 1:2 with lines title 't=67.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 677 using 1:2 with lines title 't=67.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 678 using 1:2 with lines title 't=67.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 679 using 1:2 with lines title 't=67.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 680 using 1:2 with lines title 't=68'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 681 using 1:2 with lines title 't=68.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 682 using 1:2 with lines title 't=68.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 683 using 1:2 with lines title 't=68.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 684 using 1:2 with lines title 't=68.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 685 using 1:2 with lines title 't=68.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 686 using 1:2 with lines title 't=68.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 687 using 1:2 with lines title 't=68.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 688 using 1:2 with lines title 't=68.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 689 using 1:2 with lines title 't=68.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 690 using 1:2 with lines title 't=69'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 691 using 1:2 with lines title 't=69.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 692 using 1:2 with lines title 't=69.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 693 using 1:2 with lines title 't=69.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 694 using 1:2 with lines title 't=69.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 695 using 1:2 with lines title 't=69.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 696 using 1:2 with lines title 't=69.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 697 using 1:2 with lines title 't=69.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 698 using 1:2 with lines title 't=69.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 699 using 1:2 with lines title 't=69.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 700 using 1:2 with lines title 't=70'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 701 using 1:2 with lines title 't=70.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 702 using 1:2 with lines title 't=70.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 703 using 1:2 with lines title 't=70.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 704 using 1:2 with lines title 't=70.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 705 using 1:2 with lines title 't=70.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 706 using 1:2 with lines title 't=70.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 707 using 1:2 with lines title 't=70.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 708 using 1:2 with lines title 't=70.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 709 using 1:2 with lines title 't=70.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 710 using 1:2 with lines title 't=71'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 711 using 1:2 with lines title 't=71.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 712 using 1:2 with lines title 't=71.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 713 using 1:2 with lines title 't=71.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 714 using 1:2 with lines title 't=71.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 715 using 1:2 with lines title 't=71.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 716 using 1:2 with lines title 't=71.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 717 using 1:2 with lines title 't=71.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 718 using 1:2 with lines title 't=71.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 719 using 1:2 with lines title 't=71.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 720 using 1:2 with lines title 't=72'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 721 using 1:2 with lines title 't=72.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 722 using 1:2 with lines title 't=72.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 723 using 1:2 with lines title 't=72.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 724 using 1:2 with lines title 't=72.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 725 using 1:2 with lines title 't=72.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 726 using 1:2 with lines title 't=72.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 727 using 1:2 with lines title 't=72.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 728 using 1:2 with lines title 't=72.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 729 using 1:2 with lines title 't=72.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 730 using 1:2 with lines title 't=73'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 731 using 1:2 with lines title 't=73.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 732 using 1:2 with lines title 't=73.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 733 using 1:2 with lines title 't=73.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 734 using 1:2 with lines title 't=73.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 735 using 1:2 with lines title 't=73.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 736 using 1:2 with lines title 't=73.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 737 using 1:2 with lines title 't=73.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 738 using 1:2 with lines title 't=73.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 739 using 1:2 with lines title 't=73.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 740 using 1:2 with lines title 't=74'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 741 using 1:2 with lines title 't=74.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 742 using 1:2 with lines title 't=74.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 743 using 1:2 with lines title 't=74.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 744 using 1:2 with lines title 't=74.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 745 using 1:2 with lines title 't=74.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 746 using 1:2 with lines title 't=74.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 747 using 1:2 with lines title 't=74.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 748 using 1:2 with lines title 't=74.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 749 using 1:2 with lines title 't=74.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 750 using 1:2 with lines title 't=75'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 751 using 1:2 with lines title 't=75.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 752 using 1:2 with lines title 't=75.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 753 using 1:2 with lines title 't=75.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 754 using 1:2 with lines title 't=75.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 755 using 1:2 with lines title 't=75.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 756 using 1:2 with lines title 't=75.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 757 using 1:2 with lines title 't=75.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 758 using 1:2 with lines title 't=75.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 759 using 1:2 with lines title 't=75.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 760 using 1:2 with lines title 't=76'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 761 using 1:2 with lines title 't=76.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 762 using 1:2 with lines title 't=76.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 763 using 1:2 with lines title 't=76.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 764 using 1:2 with lines title 't=76.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 765 using 1:2 with lines title 't=76.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 766 using 1:2 with lines title 't=76.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 767 using 1:2 with lines title 't=76.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 768 using 1:2 with lines title 't=76.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 769 using 1:2 with lines title 't=76.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 770 using 1:2 with lines title 't=77'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 771 using 1:2 with lines title 't=77.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 772 using 1:2 with lines title 't=77.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 773 using 1:2 with lines title 't=77.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 774 using 1:2 with lines title 't=77.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 775 using 1:2 with lines title 't=77.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 776 using 1:2 with lines title 't=77.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 777 using 1:2 with lines title 't=77.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 778 using 1:2 with lines title 't=77.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 779 using 1:2 with lines title 't=77.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 780 using 1:2 with lines title 't=78'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 781 using 1:2 with lines title 't=78.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 782 using 1:2 with lines title 't=78.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 783 using 1:2 with lines title 't=78.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 784 using 1:2 with lines title 't=78.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 785 using 1:2 with lines title 't=78.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 786 using 1:2 with lines title 't=78.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 787 using 1:2 with lines title 't=78.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 788 using 1:2 with lines title 't=78.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 789 using 1:2 with lines title 't=78.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 790 using 1:2 with lines title 't=79'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 791 using 1:2 with lines title 't=79.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 792 using 1:2 with lines title 't=79.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 793 using 1:2 with lines title 't=79.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 794 using 1:2 with lines title 't=79.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 795 using 1:2 with lines title 't=79.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 796 using 1:2 with lines title 't=79.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 797 using 1:2 with lines title 't=79.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 798 using 1:2 with lines title 't=79.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 799 using 1:2 with lines title 't=79.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 800 using 1:2 with lines title 't=80'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 801 using 1:2 with lines title 't=80.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 802 using 1:2 with lines title 't=80.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 803 using 1:2 with lines title 't=80.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 804 using 1:2 with lines title 't=80.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 805 using 1:2 with lines title 't=80.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 806 using 1:2 with lines title 't=80.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 807 using 1:2 with lines title 't=80.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 808 using 1:2 with lines title 't=80.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 809 using 1:2 with lines title 't=80.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 810 using 1:2 with lines title 't=81'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 811 using 1:2 with lines title 't=81.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 812 using 1:2 with lines title 't=81.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 813 using 1:2 with lines title 't=81.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 814 using 1:2 with lines title 't=81.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 815 using 1:2 with lines title 't=81.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 816 using 1:2 with lines title 't=81.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 817 using 1:2 with lines title 't=81.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 818 using 1:2 with lines title 't=81.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 819 using 1:2 with lines title 't=81.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 820 using 1:2 with lines title 't=82'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 821 using 1:2 with lines title 't=82.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 822 using 1:2 with lines title 't=82.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 823 using 1:2 with lines title 't=82.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 824 using 1:2 with lines title 't=82.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 825 using 1:2 with lines title 't=82.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 826 using 1:2 with lines title 't=82.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 827 using 1:2 with lines title 't=82.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 828 using 1:2 with lines title 't=82.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 829 using 1:2 with lines title 't=82.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 830 using 1:2 with lines title 't=83'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 831 using 1:2 with lines title 't=83.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 832 using 1:2 with lines title 't=83.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 833 using 1:2 with lines title 't=83.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 834 using 1:2 with lines title 't=83.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 835 using 1:2 with lines title 't=83.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 836 using 1:2 with lines title 't=83.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 837 using 1:2 with lines title 't=83.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 838 using 1:2 with lines title 't=83.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 839 using 1:2 with lines title 't=83.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 840 using 1:2 with lines title 't=84'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 841 using 1:2 with lines title 't=84.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 842 using 1:2 with lines title 't=84.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 843 using 1:2 with lines title 't=84.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 844 using 1:2 with lines title 't=84.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 845 using 1:2 with lines title 't=84.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 846 using 1:2 with lines title 't=84.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 847 using 1:2 with lines title 't=84.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 848 using 1:2 with lines title 't=84.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 849 using 1:2 with lines title 't=84.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 850 using 1:2 with lines title 't=85'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 851 using 1:2 with lines title 't=85.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 852 using 1:2 with lines title 't=85.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 853 using 1:2 with lines title 't=85.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 854 using 1:2 with lines title 't=85.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 855 using 1:2 with lines title 't=85.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 856 using 1:2 with lines title 't=85.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 857 using 1:2 with lines title 't=85.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 858 using 1:2 with lines title 't=85.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 859 using 1:2 with lines title 't=85.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 860 using 1:2 with lines title 't=86'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 861 using 1:2 with lines title 't=86.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 862 using 1:2 with lines title 't=86.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 863 using 1:2 with lines title 't=86.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 864 using 1:2 with lines title 't=86.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 865 using 1:2 with lines title 't=86.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 866 using 1:2 with lines title 't=86.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 867 using 1:2 with lines title 't=86.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 868 using 1:2 with lines title 't=86.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 869 using 1:2 with lines title 't=86.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 870 using 1:2 with lines title 't=87'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 871 using 1:2 with lines title 't=87.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 872 using 1:2 with lines title 't=87.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 873 using 1:2 with lines title 't=87.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 874 using 1:2 with lines title 't=87.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 875 using 1:2 with lines title 't=87.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 876 using 1:2 with lines title 't=87.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 877 using 1:2 with lines title 't=87.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 878 using 1:2 with lines title 't=87.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 879 using 1:2 with lines title 't=87.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 880 using 1:2 with lines title 't=88'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 881 using 1:2 with lines title 't=88.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 882 using 1:2 with lines title 't=88.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 883 using 1:2 with lines title 't=88.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 884 using 1:2 with lines title 't=88.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 885 using 1:2 with lines title 't=88.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 886 using 1:2 with lines title 't=88.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 887 using 1:2 with lines title 't=88.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 888 using 1:2 with lines title 't=88.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 889 using 1:2 with lines title 't=88.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 890 using 1:2 with lines title 't=89'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 891 using 1:2 with lines title 't=89.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 892 using 1:2 with lines title 't=89.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 893 using 1:2 with lines title 't=89.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 894 using 1:2 with lines title 't=89.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 895 using 1:2 with lines title 't=89.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 896 using 1:2 with lines title 't=89.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 897 using 1:2 with lines title 't=89.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 898 using 1:2 with lines title 't=89.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 899 using 1:2 with lines title 't=89.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 900 using 1:2 with lines title 't=90'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 901 using 1:2 with lines title 't=90.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 902 using 1:2 with lines title 't=90.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 903 using 1:2 with lines title 't=90.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 904 using 1:2 with lines title 't=90.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 905 using 1:2 with lines title 't=90.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 906 using 1:2 with lines title 't=90.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 907 using 1:2 with lines title 't=90.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 908 using 1:2 with lines title 't=90.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 909 using 1:2 with lines title 't=90.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 910 using 1:2 with lines title 't=91'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 911 using 1:2 with lines title 't=91.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 912 using 1:2 with lines title 't=91.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 913 using 1:2 with lines title 't=91.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 914 using 1:2 with lines title 't=91.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 915 using 1:2 with lines title 't=91.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 916 using 1:2 with lines title 't=91.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 917 using 1:2 with lines title 't=91.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 918 using 1:2 with lines title 't=91.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 919 using 1:2 with lines title 't=91.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 920 using 1:2 with lines title 't=92'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 921 using 1:2 with lines title 't=92.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 922 using 1:2 with lines title 't=92.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 923 using 1:2 with lines title 't=92.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 924 using 1:2 with lines title 't=92.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 925 using 1:2 with lines title 't=92.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 926 using 1:2 with lines title 't=92.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 927 using 1:2 with lines title 't=92.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 928 using 1:2 with lines title 't=92.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 929 using 1:2 with lines title 't=92.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 930 using 1:2 with lines title 't=93'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 931 using 1:2 with lines title 't=93.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 932 using 1:2 with lines title 't=93.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 933 using 1:2 with lines title 't=93.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 934 using 1:2 with lines title 't=93.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 935 using 1:2 with lines title 't=93.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 936 using 1:2 with lines title 't=93.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 937 using 1:2 with lines title 't=93.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 938 using 1:2 with lines title 't=93.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 939 using 1:2 with lines title 't=93.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 940 using 1:2 with lines title 't=94'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 941 using 1:2 with lines title 't=94.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 942 using 1:2 with lines title 't=94.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 943 using 1:2 with lines title 't=94.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 944 using 1:2 with lines title 't=94.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 945 using 1:2 with lines title 't=94.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 946 using 1:2 with lines title 't=94.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 947 using 1:2 with lines title 't=94.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 948 using 1:2 with lines title 't=94.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 949 using 1:2 with lines title 't=94.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 950 using 1:2 with lines title 't=95'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 951 using 1:2 with lines title 't=95.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 952 using 1:2 with lines title 't=95.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 953 using 1:2 with lines title 't=95.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 954 using 1:2 with lines title 't=95.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 955 using 1:2 with lines title 't=95.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 956 using 1:2 with lines title 't=95.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 957 using 1:2 with lines title 't=95.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 958 using 1:2 with lines title 't=95.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 959 using 1:2 with lines title 't=95.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 960 using 1:2 with lines title 't=96'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 961 using 1:2 with lines title 't=96.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 962 using 1:2 with lines title 't=96.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 963 using 1:2 with lines title 't=96.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 964 using 1:2 with lines title 't=96.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 965 using 1:2 with lines title 't=96.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 966 using 1:2 with lines title 't=96.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 967 using 1:2 with lines title 't=96.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 968 using 1:2 with lines title 't=96.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 969 using 1:2 with lines title 't=96.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 970 using 1:2 with lines title 't=97'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 971 using 1:2 with lines title 't=97.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 972 using 1:2 with lines title 't=97.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 973 using 1:2 with lines title 't=97.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 974 using 1:2 with lines title 't=97.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 975 using 1:2 with lines title 't=97.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 976 using 1:2 with lines title 't=97.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 977 using 1:2 with lines title 't=97.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 978 using 1:2 with lines title 't=97.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 979 using 1:2 with lines title 't=97.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 980 using 1:2 with lines title 't=98'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 981 using 1:2 with lines title 't=98.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 982 using 1:2 with lines title 't=98.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 983 using 1:2 with lines title 't=98.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 984 using 1:2 with lines title 't=98.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 985 using 1:2 with lines title 't=98.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 986 using 1:2 with lines title 't=98.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 987 using 1:2 with lines title 't=98.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 988 using 1:2 with lines title 't=98.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 989 using 1:2 with lines title 't=98.9'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 990 using 1:2 with lines title 't=99'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 991 using 1:2 with lines title 't=99.1'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 992 using 1:2 with lines title 't=99.2'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 993 using 1:2 with lines title 't=99.3'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 994 using 1:2 with lines title 't=99.4'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 995 using 1:2 with lines title 't=99.5'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 996 using 1:2 with lines title 't=99.6'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 997 using 1:2 with lines title 't=99.7'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 998 using 1:2 with lines title 't=99.8'
+pause 0.1
+plot 'NLinHopfFig4.dat' ind 999 using 1:2 with lines title 't=99.9'
+pause 0.1
+reset
